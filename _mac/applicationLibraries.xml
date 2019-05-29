@@ -12,7 +12,6 @@
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/348993582" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -26,7 +25,6 @@
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/348993582" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Python 2.7.10 virtualenv at ~/.virtualenvs/rym_shuffler interpreter library">
@@ -40,7 +38,6 @@
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
         <root url="file://$USER_HOME$/.virtualenvs/rym_shuffler/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-118719101" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -53,7 +50,6 @@
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
         <root url="file://$USER_HOME$/.virtualenvs/rym_shuffler/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-118719101" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Python 2.7.12 virtualenv at /Volumes/Macintosh HD/Users/spacecoffin/Development/keroaan2 interpreter library">
@@ -68,7 +64,6 @@
         <root url="file:///Volumes/Macintosh HD/Users/spacecoffin/Development/keroaan2/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Development/keroaan2/src/bregmantoolkit" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/2119123272" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -82,7 +77,6 @@
         <root url="file:///Volumes/Macintosh HD/Users/spacecoffin/Development/keroaan2/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Development/keroaan2/src/bregmantoolkit" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/2119123272" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Python 2.7.14 virtualenv at ~/.virtualenvs/pyo interpreter library">
@@ -126,7 +120,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.3/python_stubs/776880377" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$USER_HOME$/Development/sprbrg/lib/python3.5/site-packages" />
       </CLASSES>
       <JAVADOC />
@@ -135,7 +128,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.3/python_stubs/776880377" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$USER_HOME$/Development/sprbrg/lib/python3.5/site-packages" />
       </SOURCES>
     </library>
@@ -146,7 +138,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-1199943128" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -155,7 +146,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-1199943128" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Python 3.5.2 virtualenv at ~/.virtualenvs/supriya_venv interpreter library">
@@ -167,7 +157,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/.virtualenvs/supriya_venv/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.3/python_stubs/-22892564" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -178,7 +167,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/.virtualenvs/supriya_venv/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.3/python_stubs/-22892564" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Python 3.5.2 virtualenv at ~/Development/bda interpreter library">
@@ -188,7 +176,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/Development/bda/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-1041047299" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -197,7 +184,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/Development/bda/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/-1041047299" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
     <library name="Python 3.5.2 virtualenv at ~/Development/keroaan interpreter library">
@@ -207,7 +193,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/Development/keroaan/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/2039411061" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
@@ -216,7 +201,6 @@
         <root url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
         <root url="file://$USER_HOME$/Development/keroaan/lib/python3.5/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IdeaIC2016.2/python_stubs/2039411061" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
   </component>
